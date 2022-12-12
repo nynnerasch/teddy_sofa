@@ -1,0 +1,16 @@
+:root {
+  --primær_tekstfarve: #471c24;
+  --bgfarve: #f9d7de;
+  --primær_knap: #ffb6e1;
+  --hover_farve: #594abf;
+  --accent: #fffaf1;
+  --checkbox: #a2d2ff;
+  --skrivefelt_tekst: #aaaaab;
+  --skrivefelt_baggrund: #fef1f1;
+  --afvis_cookies: #f23333;
+  --tillad_cookies: #7ef089;
+}
+
+body {
+  background-color: var(--bgfarve);
+}
