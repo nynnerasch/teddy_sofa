@@ -13,4 +13,8 @@
 
 body {
   background-color: var(--bgfarve);
+  background-image: url("assets/baggrundsbillede.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
 }
